@@ -1,2 +1,2 @@
-# Metody_obliczeniowe_w_finansach
+# Metody obliczeniowe w finansach
 Materiały pomocnicze i  własne rozwiązania zadań domowych
