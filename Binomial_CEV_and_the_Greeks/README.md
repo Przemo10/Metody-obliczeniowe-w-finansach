@@ -1,4 +1,8 @@
-# Model dwumianowy CEV
+## Wyznaczanie wartości greckich parametrów dla europejskiej opcji kupna
 
-- Opis problemu:
-[Link](https://www.infona.pl/resource/bwmeta1.element.wiley-fut-v-37-i-1-fut21791/content/partContents/FUT.FUT21791.pdf)
+## Lista plików:
+- dycha_zad1.R
+- dycha_zad1_koment.pdf
+- CW1_data.txt
+## Komenda do uruchomienia w konsoli:
+Rscript dycha_zad1.R
